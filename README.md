@@ -10,4 +10,4 @@ https://drive.google.com/file/d/1gGqPtyaa7WbhM79E1dZh06oHumIqXHTD/view?usp=shari
 
 
 <h2> License </h2>
-Uses Dear <a href="https://github.com/ocornut/imgui">ImGui</a>
+Uses Dear <a href="https://github.com/ocornut/imgui">ImGui</a> and <a href="https://www.libsdl.org/"> SDL2 </a>
